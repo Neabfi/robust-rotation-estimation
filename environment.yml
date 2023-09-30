@@ -1,0 +1,9 @@
+name: rotation_estimation
+channels:
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pytorch::pytorch
+prefix: /Users/fabien/miniconda3/envs/rotation_estimation
